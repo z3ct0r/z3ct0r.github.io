@@ -1,14 +1,14 @@
-Package: com.julioverne.adblock
+Package: com.jasonaramday.flaticonsios10
 Architecture: iphoneos-arm
-Version: 0.2~beta1
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate
+Version: 1.5
+Section: Themes
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
 Filename: ./com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
 Size: 10028
 MD5sum: 0b04b74bb57a4aef287dfa423462a1a5
-Homepage: http://twitter.com/ijulioverne
-Description: ADs Blocker for Apps.. Note: may not load page or app crash.
-Name: ADs Blocker
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
+Homepage: https://z3ct0r.github.io/
+Description: FlatIcons is neat
+Name: FlatIcons iOS 10
+Author: Jason Aram Day <jday72805@gmail.com>
+Depiction: https://z3ct0r.github.io/cr/depiction/flaticons/index.html
